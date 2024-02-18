@@ -11,7 +11,7 @@ import base64
 # class Message(Model):
 #     message: str
 from openai import OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="mask")
 # SEED_PHRASE = "agent1q2pgplfp2su2q320kz2x2w46fyua25wys9ast6gk7rc7crwan8h765ufx9e"
 # AGENT_MAILBOX_KEY = "agent1q2pgplfp2su2q320kz2x2w46fyua25wys9ast6gk7rc7crwan8h765ufx9e"
 # agent = Agent(
